@@ -36,5 +36,17 @@ python-foundation-assignments-yourname/
 │
 └── day-03/
     └── (coming soon)
+
+---
+## Technologies Used
+
+- Python 3
+- Jupyter Notebook
+
+---
+
+## How to Navigate
+
+Each day has its own folder with exercises and a README explaining what was learned.
 ```
 

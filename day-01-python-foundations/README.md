@@ -1,24 +1,26 @@
-# Python Foundation Assignments
+# Day 1: Python Foundations
 
-## Student Information
+## Topics Covered
 
-- Name: Samir Dahal
-- Cohort: Data Analytics 2026
-- Track Interest: Data Analytics
+- Variables and Data Types
+- String Methods
+- Operators
+- Conditional Statements
+- f-strings and Formatting
 
-## About This Repository
+## Exercises
 
-This repository contains my assignments and practice exercises from the Python Foundation training.
+1. ✅ Sales Summary (Completed)
+2. ⬜ Data Quality Checker
+3. ⬜ File Validator
+4. ⬜ Customer Record Cleaner
+5. ⬜ Pipeline Health Status
+6. ⬜ Dataset Access Decision
 
-## Assignment Progress
+## What I Learned
 
-- [x] Day 1: Python Foundations
-- [ ] Day 2: Collections
-- [ ] Day 3: Loops
+Today I learned how to use Python variables, perform calculations, and use f-strings for formatted output.
 
+## Challenges Faced
 
-
-
-
-
-
+No major challenges. I successfully completed the exercise.

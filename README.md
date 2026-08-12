@@ -17,21 +17,24 @@ This repository contains my assignments and practice exercises from the Python F
 - [ ] Day 3: Loops
 
 ## Repository Structure
+```
 python-foundation-assignments-yourname/
 │
 ├── README.md
 │
 ├── day-01-python-foundations/
-│ ├── README.md
-│ ├── exercise-01-sales-summary.py
-│ ├── exercise-02-data-quality-checker.py
-│ ├── exercise-03-file-validator.py
-│ ├── exercise-04-customer-cleaner.py
-│ ├── exercise-05-pipeline-health.py
-│ └── stretch-access-decision.py
+│   ├── README.md
+│   ├── exercise-01-sales-summary.py
+│   ├── exercise-02-data-quality-checker.py
+│   ├── exercise-03-file-validator.py
+│   ├── exercise-04-customer-cleaner.py
+│   ├── exercise-05-pipeline-health.py
+│   └── stretch-access-decision.py
 │
 ├── day-02/
-│ └── ...
+│   └── (coming soon)
 │
 └── day-03/
-└── ...
+    └── (coming soon)
+```
+

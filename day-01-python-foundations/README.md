@@ -1,5 +1,13 @@
 # Day 1: Python Foundations
 
+## Topics Covered
+
+- Variables
+- Data types
+- String methods
+- Operators
+- Conditional statements
+
 ## Exercises Completed
 
 1. ✅ Sales Summary

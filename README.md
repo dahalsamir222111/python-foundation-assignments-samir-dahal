@@ -37,13 +37,13 @@ python-foundation-assignments-yourname/
 └── day-03/
     └── (coming soon)
 
----
+
 ## Technologies Used
 
 - Python 3
 - Jupyter Notebook
 
----
+
 
 ## How to Navigate
 
